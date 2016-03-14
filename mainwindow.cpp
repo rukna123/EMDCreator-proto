@@ -152,5 +152,6 @@ void MainWindow::on_pushButton_3_clicked()
 //remove last cut from the queue
 void MainWindow::on_pushButton_clicked()
 {
-    time_queue.pop_back();
+    if(!time_queue.empty())
+        time_queue.pop_back();
 }
