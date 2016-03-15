@@ -14,3 +14,5 @@ Note: MPlayer as backend is required. This creator's code contain ExMplayer's co
     Click to start cut. Click at another place ahead of start to make end.
     Like this pair of clicks will result in set of time intervals where your original file will skip
     when you will play VLC with the EMD file created by this creator.
+
+NOTE:Please revert back if you find any error.
